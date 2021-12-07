@@ -16,10 +16,14 @@ And if you want to play Dark Souls, then play Dark Souls :)
 
 You should already have this. If not - you can find it [HERE](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170), under "Visual Studio 2015, 2017, 2019, and 2022". Download X64 version.
 
-
 ### .NET 5.0 Runtime
 
 You can find it [HERE](https://dotnet.microsoft.com/download/dotnet/5.0/runtime). Download x64 version for desktop apps.
+
+### Disable Automatic Updates
+
+One of the most important things to do at start is to disable automatic updates on Steam. Like you all know, Bethesda releases from time to time their Creation Club mods with a game update for these and this is really problematic. Each update breaks the compatibility with SKSE and a lot of its plugins. So we want to avoid it!
+HOW TO DO IT: Go to your Steam Library. Find the Elder Scrolls V: Skyrim Special Edition. Right-click it and select Properties. Go to the Updates and set on Automatic updates on "Only update this game when I launch it".
 
 
 
