@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/95659208/145071850-7b33a425-0a8b-4977-9c2e-ed4869c0287d.png)
+
 # The Northern Experience
 The Northern Experience is a [Gothic](https://en.wikipedia.org/wiki/Gothic_(series)) inspired modding guide for Skyrim Special Edition.
 After many years and a few different approaches - total overhaul in Nordic Skyrim; full-on hardcore in YASHed - I was finally able to find the golden mean.
