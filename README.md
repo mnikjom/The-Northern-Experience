@@ -3,10 +3,24 @@
 for 2.0.20 version of Skyrim SE
 
 # The Northern Experience
-The Northern Experience is a [Gothic](https://en.wikipedia.org/wiki/Gothic_(series)) inspired modding guide for Skyrim Special Edition.
+The Northern Experience is a [Gothic](https://en.wikipedia.org/wiki/Gothic_(series)) inspired mod list for Skyrim Special Edition.
 After many years and a few different approaches - total overhaul in Nordic Skyrim; full-on hardcore in YASHed - I was finally able to find the golden mean.
 Don't try to change the game into something else. Improve the base game, then try adding fun stuff.
 And if you want to play Dark Souls, then play Dark Souls :)
+
+
+
+## Pre-Installation
+
+### Microsoft Visual C++ Redistributable Package
+
+You should already have this. If not - you can find it [HERE](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170), under "Visual Studio 2015, 2017, 2019, and 2022". Download X64 version.
+
+
+### .NET 5.0 Runtime
+
+You can find it [HERE](https://dotnet.microsoft.com/download/dotnet/5.0/runtime). Download x64 version for desktop apps.
+
 
 
 ## Quick Guide:
@@ -71,6 +85,7 @@ Follow instructions from ENB section.
 #### [SSELodGen and DynDOLOD section](https://www.nexusmods.com/skyrimspecialedition/mods/23894)
 
 Follow all instructions from SSELodGen and DynDOLOD section.
+
 
 
 ## After Installation:
