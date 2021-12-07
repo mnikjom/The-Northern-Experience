@@ -26,6 +26,10 @@ One of the most important things to do at start is to disable automatic updates 
 
 HOW TO DO IT: Go to your Steam Library. Find the Elder Scrolls V: Skyrim Special Edition. Right-click it and select Properties. Go to the Updates and set on Automatic updates on "Only update this game when I launch it".
 
+### First time with Mod Organizer 2?
+
+If you're not sure how to install mods, hide files, etc. - [tutorials with some basic stuff](https://www.nexusmods.com/skyrimspecialedition/articles/1045). 
+
 
 
 ## Quick Guide:
