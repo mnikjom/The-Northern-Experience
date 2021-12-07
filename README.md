@@ -16,7 +16,7 @@ Download: Eremite Camping and Combat v2.23 (Main File)
 Left panel: Put it under Campfire - TNE Profile (Survival section);
 Right panal: Put it under TrueHel.esp;
 
-[*]
+[-]
 
 #### [Provincial Courier Service](https://www.afkmods.com/index.php?/files/file/2006-provincial-courier-service/)
 
