@@ -23,6 +23,7 @@ You can find it [HERE](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)
 ### Disable Automatic Updates
 
 One of the most important things to do at start is to disable automatic updates on Steam. Like you all know, Bethesda releases from time to time their Creation Club mods with a game update for these and this is really problematic. Each update breaks the compatibility with SKSE and a lot of its plugins. So we want to avoid it!
+
 HOW TO DO IT: Go to your Steam Library. Find the Elder Scrolls V: Skyrim Special Edition. Right-click it and select Properties. Go to the Updates and set on Automatic updates on "Only update this game when I launch it".
 
 
