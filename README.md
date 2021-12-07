@@ -24,3 +24,8 @@ This mod is a simple immersion/realism mod that provides a small shack outside o
 
 Download: Provincial Courier Service
 
+Left panel: Put it inside City Overhauls section (first entry in that section);
+Right panal: Put it under Flora Cut for TNE.esp;
+
+[-]
+
