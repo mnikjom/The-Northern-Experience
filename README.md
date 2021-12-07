@@ -30,7 +30,7 @@ Right panal: Put it under Flora Cut for TNE.esp;
 
 [-]
 
-[Eyes Mod from ddsworkshop](https://www.ddsworkshop.net/eyes-modbr) 
+#### [Eyes Mod from ddsworkshop](https://www.ddsworkshop.net/eyes-modbr) 
 
 Great retexture for eyes.
 
@@ -42,9 +42,14 @@ Left panel: Put it under SUEMR SSE with Bijin AIO 2019 Support (Physical Appeara
 
 [-]
 
-GCO Van Gogh Eyes﻿﻿﻿﻿﻿ 
+#### [GCO Van Gogh Eyes](https://www.patreon.com/posts/gco-alpha3-van-35573588)
 
 Part of our eyes setup.
 
 IMPORTANT: Double-click the mod in your left tab. Now, go to the Filetree tab. Hide EVERYTHING except textures/actors/character/eyes/eyebrown_sk.dds.
 
+Left panel: Put it under Eyes Mod from ddsworkshop (Physical Appearance and NPC Overhauls section);
+
+[-]
+
+f
