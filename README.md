@@ -78,3 +78,4 @@ Follow all instructions from SSELodGen and DynDOLOD section.
 #### [MCM Menu Setup](https://www.nexusmods.com/skyrimspecialedition/articles/1077)
 
 
+# [SUPPORT ONLY ON DISCORD](https://discord.gg/fuhsnph)
