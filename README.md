@@ -7,7 +7,7 @@ And if you want to play Dark Souls, then play Dark Souls :)
 
 ## Quick Guide:
 
-[Eremite Camping and Combat for Campfire](https://www.dracotorre.com/mods/eremitecamping/)
+####[Eremite Camping and Combat for Campfire](https://www.dracotorre.com/mods/eremitecamping/)
 
 A Campfire add-on with perks for the constant travel, permanent campsite builder, or no-armor warrior monk.
 
@@ -15,4 +15,11 @@ Download: Eremite Camping and Combat v2.23 (Main File)
 
 Left panel: Put it under Campfire - TNE Profile (Survival section);
 Right panal: Put it under TrueHel.esp;
+
+
+####[Provincial Courier Service](https://www.afkmods.com/index.php?/files/file/2006-provincial-courier-service/)
+
+This mod is a simple immersion/realism mod that provides a small shack outside of Whiterun along the main road, next to Honningbrew Meadery.
+
+Download: Provincial Courier Service
 
