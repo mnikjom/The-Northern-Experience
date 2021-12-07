@@ -52,4 +52,25 @@ Left panel: Put it under Eyes Mod from ddsworkshop (Physical Appearance and NPC 
 
 [-]
 
-f
+#### [Bodyslide Output, Nemesis Output, Smashed Patch](https://www.nexusmods.com/skyrimspecialedition/mods/23894)
+
+Follow instructions from Final Patches section.
+
+[-]
+
+#### [Installing ENB, Presets](https://www.nexusmods.com/skyrimspecialedition/mods/23894)
+
+Follow instructions from ENB section.
+
+[-]
+
+#### [SSELodGen and DynDOLOD section](https://www.nexusmods.com/skyrimspecialedition/mods/23894)
+
+Follow all instructions from SSELodGen and DynDOLOD section.
+
+
+## After Installation:
+
+#### [MCM Menu Setup](https://www.nexusmods.com/skyrimspecialedition/articles/1077)
+
+
