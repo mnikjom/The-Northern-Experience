@@ -13,6 +13,6 @@ A Campfire add-on with perks for the constant travel, permanent campsite builder
 
 Download: Eremite Camping and Combat v2.23 (Main File)
 
-Left panel: Put it under Campfire - TNE Profile (Survival section);
-Right panal: Put it under TrueHel.esp;
+Left panel: Put it under Campfire - TNE Profile (Survival section)
+Right panal: Put it under TrueHel.esp
 
