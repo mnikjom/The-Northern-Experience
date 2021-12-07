@@ -6,6 +6,7 @@ And if you want to play Dark Souls, then play Dark Souls :)
 
 
 ## Quick Guide:
+You need to download and install these mods separately.
 
 #### [Eremite Camping and Combat for Campfire](https://www.dracotorre.com/mods/eremitecamping/)
 
