@@ -5,11 +5,11 @@ Don't try to change the game into something else. Improve the base game, then tr
 And if you want to play Dark Souls, then play Dark Souls :)
 
 
-
-
-
-
-
-
 ## Quick Guide:
-fsafas
+
+[Eremite Camping and Combat for Campfire](https://www.dracotorre.com/mods/eremitecamping/)
+
+A Campfire add-on with perks for the constant travel, permanent campsite builder, or no-armor warrior monk.
+
+Download: Eremite Camping and Combat v2.23 (Main File)
+
