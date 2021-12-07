@@ -30,3 +30,21 @@ Right panal: Put it under Flora Cut for TNE.esp;
 
 [-]
 
+[Eyes Mod from ddsworkshop](https://www.ddsworkshop.net/eyes-modbr) 
+
+Great retexture for eyes.
+
+Note: Uncheck Demonica folder when installing the mod. We only wants the Vanilla folder.
+
+Download: Scroll under that big billboard with pictures. There are two download choices. Pick Free.
+
+Left panel: Put it under SUEMR SSE with Bijin AIO 2019 Support (Physical Appearance and NPC Overhauls section);
+
+[-]
+
+GCO Van Gogh Eyes﻿﻿﻿﻿﻿ 
+
+Part of our eyes setup.
+
+IMPORTANT: Double-click the mod in your left tab. Now, go to the Filetree tab. Hide EVERYTHING except textures/actors/character/eyes/eyebrown_sk.dds.
+
