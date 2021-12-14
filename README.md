@@ -32,7 +32,7 @@ Open the Steam Properties window, navigate to the Language tab and select Englis
 
 ### Downgrade AE to SE
 
-Steam will download Anniversary Edition by default. To downgrade it to the "old Special Edition" you need to use [Patcher.exe](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files).
+Steam will download Anniversary Edition by default. To downgrade it to the "old Special Edition" you need to use [FullPatcher.exe](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files).
 
 ### First time with Mod Organizer 2?
 
