@@ -87,12 +87,6 @@ Left panel: Put it under Eyes Mod from ddsworkshop (Physical Appearance and NPC 
 
 [-]
 
-#### [Bodyslide Output, Nemesis Output](https://www.nexusmods.com/skyrimspecialedition/mods/23894)
-
-Follow instructions from Final Patches section.
-
-[-]
-
 #### [Installing ENB, Presets](https://www.nexusmods.com/skyrimspecialedition/mods/23894)
 
 Follow instructions from ENB section.
