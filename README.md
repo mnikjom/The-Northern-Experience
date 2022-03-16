@@ -91,11 +91,6 @@ Left panel: Put it under Eyes Mod from ddsworkshop (Physical Appearance and NPC 
 
 Follow instructions from ENB section.
 
-[-]
-
-#### [SSELodGen and DynDOLOD section](https://www.nexusmods.com/skyrimspecialedition/mods/23894)
-
-Follow all instructions from SSELodGen and DynDOLOD section.
 
 
 
