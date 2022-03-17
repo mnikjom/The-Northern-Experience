@@ -48,6 +48,19 @@ You can check what's included in TNE on my Nexus mod page - [The Northern Experi
 ## Quick Guide:
 You need to download and install these mods separately:
 
+#### [Skyrim particle patch for ENB](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
+
+Skyrim has quite a few object meshes that have their shaders or blending properties set incorrectly. As a result, when using ENB many of these objects look buggy or react to an incorrect category in enbseries.ini. This mod fixes that.
+
+Download: Particle Patch All-in-One Installation (Special Edition) - Latest Version (Google Drive)
+
+Left panel: Put it under Skyrim Realistic Overhaul Part 2 (Base Textures section);
+
+IMPORTANT: Double-click the mod in your left tab. Now, go to the Filetree tab. Hide meshes/interface folder, textures/effects/gradients/gradwhitewater.dds file.
+Also, hide Particle Patch for ENB SSE.esp.
+
+[-]
+
 #### [Eremite Camping and Combat for Campfire](https://www.dracotorre.com/mods/eremitecamping/)
 
 A Campfire add-on with perks for the constant travel, permanent campsite builder, or no-armor warrior monk.
@@ -86,9 +99,9 @@ Left panel: Put it under SUEMR SSE with Bijin AIO 2019 Support (Physical Appeara
 
 Part of our eyes setup.
 
-IMPORTANT: Double-click the mod in your left tab. Now, go to the Filetree tab. Hide EVERYTHING except textures/actors/character/eyes/eyebrown_sk.dds.
-
 Left panel: Put it under Eyes Mod from ddsworkshop (Physical Appearance and NPC Overhauls section);
+
+IMPORTANT: Double-click the mod in your left tab. Now, go to the Filetree tab. Hide EVERYTHING except textures/actors/character/eyes/eyebrown_sk.dds.
 
 [-]
 
