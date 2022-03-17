@@ -103,12 +103,35 @@ Left panel: Put it under Eyes Mod from ddsworkshop (Physical Appearance and NPC 
 
 IMPORTANT: Double-click the mod in your left tab. Now, go to the Filetree tab. Hide EVERYTHING except textures/actors/character/eyes/eyebrown_sk.dds.
 
-[-]
 
-#### [Installing ENB, Presets](https://www.nexusmods.com/skyrimspecialedition/mods/23894)
 
-Follow instructions from ENB section.
+## ENB
 
+### INSTALLING ENB
+
+Go here and download the latest binary: [ENB Dev](http://enbdev.com/download_mod_tesskyrimse.htm)
+
+Open the archive and copy the following files to your Skyrim SE folder:
+
+* d3d11.dll
+* d3dcompiler_46e.dll
+
+Open the game and check if it's working, it's very obvious with the text that appears.
+Now to open this using the default settings press SHIFT + ENTER.
+
+
+
+### PRESETS
+
+In the guide we are using CATHEDRAL Weathers, so we need an ENB Preset that matches this.
+TNE supports only two presets (guide is made with Normal preset in mind, so Performance version may look odd in some places).
+This is really important, because some ENBs require from you to use some extra mods/files that may be incompatible with the guide!
+
+Normal: [Mythical Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/45523)
+
+Performance: [Cathedral Minimalist ENB](https://www.nexusmods.com/skyrimspecialedition/mods/31367)
+
+Download preset. Copy all files to your Skyrim SE folder (where you have game .exe files).
 
 
 
