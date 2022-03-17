@@ -36,7 +36,12 @@ Steam will download Anniversary Edition by default. To downgrade it to the "old 
 
 ### First time with Mod Organizer 2?
 
-If you're not sure how to install mods, hide files, etc. - [tutorials with some basic stuff](https://www.nexusmods.com/skyrimspecialedition/articles/1045). 
+If you're not sure how to install mods, hide files, etc. - [tutorials with some basic stuff](https://www.nexusmods.com/skyrimspecialedition/articles/1045).
+
+
+
+## Gameplay:
+You can check what's included in TNE on my Nexus mod page - [The Northern Experience - Skyrim Modding Guide](https://www.nexusmods.com/skyrimspecialedition/mods/23894). 
 
 
 
