@@ -107,7 +107,7 @@ IMPORTANT: Double-click the mod in your left tab. Now, go to the Filetree tab. H
 
 ## ENB
 
-### INSTALLING ENB
+### Installing ENB
 
 Go here and download the latest binary: [ENB Dev](http://enbdev.com/download_mod_tesskyrimse.htm)
 
@@ -121,7 +121,7 @@ Now to open this using the default settings press SHIFT + ENTER.
 
 
 
-### PRESETS
+### Presets
 
 In the guide we are using CATHEDRAL Weathers, so we need an ENB Preset that matches this.
 TNE supports only two presets (guide is made with Normal preset in mind, so Performance version may look odd in some places).
