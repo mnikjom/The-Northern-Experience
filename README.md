@@ -137,10 +137,6 @@ Download preset. Copy all files to your Skyrim SE folder (where you have game .e
 
 ## After Installation:
 
-#### Game Folder Files
-
-There is a folder inside your installation folder called Game Folder Files. Move the contents of this folder to the game root directory (where the game .exe is located).
-
 #### [MCM Menu Setup](https://www.nexusmods.com/skyrimspecialedition/articles/1077)
 
 That should be everything. Have fun!
