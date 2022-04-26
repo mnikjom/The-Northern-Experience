@@ -48,19 +48,6 @@ You can check what's included in TNE on my Nexus mod page - [The Northern Experi
 ## Quick Guide:
 You need to download and install these mods separately:
 
-#### [Skyrim particle patch for ENB](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
-
-Skyrim has quite a few object meshes that have their shaders or blending properties set incorrectly. As a result, when using ENB many of these objects look buggy or react to an incorrect category in enbseries.ini. This mod fixes that.
-
-Download: Particle Patch All-in-One Installation (Special Edition) - Latest Version (Google Drive)
-
-Left panel: Put it under Skyrim Realistic Overhaul Part 2 (Base Textures section);
-
-IMPORTANT: Double-click the mod in your left tab. Now, go to the Filetree tab. Hide meshes/interface folder, textures/effects/gradients/gradwhitewater.dds file.
-Also, hide Particle Patch for ENB SSE.esp.
-
-[-]
-
 #### [Eremite Camping and Combat for Campfire](https://www.dracotorre.com/mods/eremitecamping/)
 
 A Campfire add-on with perks for the constant travel, permanent campsite builder, or no-armor warrior monk.
@@ -80,28 +67,6 @@ Download: Provincial Courier Service
 
 Left panel: Put it inside City Overhauls section (first entry in that section);
 Right panal: Put it under Flora Cut for TNE.esp;
-
-[-]
-
-#### [Eyes Mod from ddsworkshop](https://www.ddsworkshop.net/eyes-modbr) 
-
-Great retexture for eyes.
-
-Note: Uncheck Demonica folder when installing the mod. We only wants the Vanilla folder.
-
-Download: Scroll under that big billboard with pictures. There are two download choices. Pick Free.
-
-Left panel: Put it under SUEMR SSE with Bijin AIO 2019 Support (Physical Appearance and NPC Overhauls section);
-
-[-]
-
-#### [GCO Van Gogh Eyes](https://www.patreon.com/posts/gco-alpha3-van-35573588)
-
-Part of our eyes setup.
-
-Left panel: Put it under Eyes Mod from ddsworkshop (Physical Appearance and NPC Overhauls section);
-
-IMPORTANT: Double-click the mod in your left tab. Now, go to the Filetree tab. Hide EVERYTHING except textures/actors/character/eyes/eyebrown_sk.dds.
 
 
 
