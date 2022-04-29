@@ -45,8 +45,9 @@ You can check what's included in TNE on my Nexus mod page - [The Northern Experi
 
 
 
-## Quick Guide:
-You need to download and install these mods separately:
+## Quick Guide for Optional Mods:
+
+These two mods are optional (not included in WJ installer), but HIGHLY recommended:
 
 #### [Eremite Camping and Combat for Campfire](https://www.dracotorre.com/mods/eremitecamping/)
 
@@ -67,6 +68,10 @@ Download: Provincial Courier Service
 
 Left panel: Put it inside City Overhauls section (first entry in that section);
 Right panal: Put it under Flora Cut for TNE.esp;
+
+[-]
+
+#### In SSELodGen and DynDOLOD separator (left panel in MO2) find and enable "DynDOLOD Output with Optionals". Disable "DynDOLOD Output".
 
 
 
