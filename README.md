@@ -30,10 +30,6 @@ HOW TO DO IT: Go to your Steam Library. Find the Elder Scrolls V: Skyrim Special
 
 Open the Steam Properties window, navigate to the Language tab and select English from the dropdown menu. TNE doesn't support any other language.
 
-### Downgrade AE to SE
-
-Steam will download Anniversary Edition by default. To downgrade it to the "old Special Edition" you need to use [FullPatcher.exe](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files).
-
 ### First time with Mod Organizer 2?
 
 If you're not sure how to install mods, hide files, etc. - [tutorials with some basic stuff](https://www.nexusmods.com/skyrimspecialedition/articles/1045).
