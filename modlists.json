@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The Northern Experience",
+    "description": "Mod list that will provide a unique, Gothic-esque adventure.",
+    "author": "mnikjom",
+    "maintainers": [
+      "github/mnikjom"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "testing",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/23894/23894-1578511882-321812591.jpeg",
+      "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/69147",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/fuhsnph"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "/GKQNZCwQ3o=",
+      "Size": 496553683,
+      "NumberOfArchives": 1757,
+      "SizeOfArchives": 96646416826,
+      "NumberOfInstalledFiles": 124520,
+      "SizeOfInstalledFiles": 133469951732
+    },
+    "version": "1.5.3"
+  }
+]
