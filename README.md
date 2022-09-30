@@ -54,51 +54,6 @@ Download: Eremite Camping and Combat v2.23 (Main File)
 Left panel: Put it under Campfire - TNE Profile (Survival section);
 Right panal: Put it under TrueHel.esp;
 
-[-]
-
-#### [Provincial Courier Service](https://www.afkmods.com/index.php?/files/file/2006-provincial-courier-service/)
-
-This mod is a simple immersion/realism mod that provides a small shack outside of Whiterun along the main road, next to Honningbrew Meadery.
-
-Download: Provincial Courier Service
-
-Left panel: Put it inside City Overhauls section (first entry in that section);
-Right panal: Put it under Flora Cut for TNE.esp;
-
-[-]
-
-#### In SSELodGen and DynDOLOD separator (left panel in MO2) find and enable "DynDOLOD Output with Optionals". Disable "DynDOLOD Output".
-
-
-
-## ENB
-
-### Installing ENB
-
-Go here and download the latest binary: [ENB Dev](http://enbdev.com/download_mod_tesskyrimse.htm)
-
-Open the archive and copy the following files to your Skyrim SE folder:
-
-* d3d11.dll
-* d3dcompiler_46e.dll
-
-Open the game and check if it's working, it's very obvious with the text that appears.
-Now to open this using the default settings press SHIFT + ENTER.
-
-
-
-### Presets
-
-In the guide we are using CATHEDRAL Weathers, so we need an ENB Preset that matches this.
-TNE supports only two presets (guide is made with Normal preset in mind, so Performance version may look odd in some places).
-This is really important, because some ENBs require from you to use some extra mods/files that may be incompatible with the guide!
-
-Normal: [Mythical Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/45523)
-
-Performance: [Cathedral Minimalist ENB](https://www.nexusmods.com/skyrimspecialedition/mods/31367)
-
-Download preset. Copy all files to your Skyrim SE folder (where you have game .exe files).
-
 
 
 ## After Installation:
