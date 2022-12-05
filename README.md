@@ -43,7 +43,7 @@ You can check what's included in TNE on my Nexus mod page - [The Northern Experi
 
 ## Quick Guide for Optional Mods:
 
-These two mods are optional (not included in WJ installer), but HIGHLY recommended:
+Optional (not included in WJ installer), but HIGHLY recommended:
 
 #### [Eremite Camping and Combat for Campfire](https://www.dracotorre.com/mods/eremitecamping/)
 
