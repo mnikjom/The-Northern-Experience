@@ -8,8 +8,9 @@
       "github/mnikjom"
     ],
     "game": "skyrimspecialedition",
+    "official": true,
     "tags": [
-      "Immersion"
+      "Official"
     ],
     "nsfw": false,
     "image_contains_title": true,
