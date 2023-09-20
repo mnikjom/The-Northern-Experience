@@ -22,13 +22,13 @@ You can find it [HERE](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)
 
 ### Disable Automatic Updates
 
-One of the most important things to do at start is to disable automatic updates on Steam. Like you all know, Bethesda releases from time to time their Creation Club mods with a game update for these and this is really problematic. Each update breaks the compatibility with SKSE and a lot of its plugins. So we want to avoid it!
+One of the most important things to do at the start is to disable automatic updates on Steam. Like you all know, Bethesda releases from time to time their Creation Club mods with a game update for these and this is really problematic. Each update breaks the compatibility with SKSE and a lot of its plugins. So we want to avoid it!
 
 HOW TO DO IT: Go to your Steam Library. Find the Elder Scrolls V: Skyrim Special Edition. Right-click it and select Properties. Go to the Updates and set on Automatic updates on "Only update this game when I launch it".
 
 ### English Language
 
-Open the Steam Properties window, navigate to the Language tab and select English from the dropdown menu. TNE doesn't support any other language.
+Open the Steam Properties window, navigate to the Language tab, and select English from the dropdown menu. TNE doesn't support any other language.
 
 ### First time with Mod Organizer 2?
 
@@ -47,9 +47,9 @@ Optional (not included in WJ installer), but HIGHLY recommended:
 
 #### [Eremite Camping and Combat for Campfire](https://www.dracotorre.com/mods/eremitecamping/)
 
-A Campfire add-on with perks for the constant travel, permanent campsite builder, or no-armor warrior monk.
+A Campfire add-on with perks for constant travel, permanent campsite builder, or no-armor warrior monk.
 
-Download: Eremite Camping and Combat v2.23 (Main File)
+Download: Eremite Camping and Combat v2.25 (Main File)
 
 Left panel: Put it under Campfire - TNE Profile (Survival section);
 Right panal: Put it under TrueHel.esp;
