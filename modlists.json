@@ -19,19 +19,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/23894/23894-1578511882-321812591.jpeg",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/69147",
-      "download": "https://authored-files.wabbajack.org/The%20Northern%20Experience.wabbajack_3b4e5e83-f81a-4497-b0ad-f6f51506dd29",
+      "download": "https://authored-files.wabbajack.org/The%20Northern%20Experience.wabbajack_e80b64a0-5d8b-42b8-adb6-73aa7b7aa4c1",
       "machineURL": "tne",
       "discordURL": "https://discord.gg/fuhsnph"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "9c2MIeuoDLo=",
-      "Size": 512521710,
-      "NumberOfArchives": 3177,
-      "SizeOfArchives": 146394925105,
-      "NumberOfInstalledFiles": 199593,
-      "SizeOfInstalledFiles": 233416348899
+      "Hash": "DC8T8A8oIMU=",
+      "Size": 513131932,
+      "NumberOfArchives": 3220,
+      "SizeOfArchives": 149027367782,
+      "NumberOfInstalledFiles": 201934,
+      "SizeOfInstalledFiles": 236322979402
     },
-    "version": "1.6.8"
+    "version": "1.6.9"
   }
 ]
