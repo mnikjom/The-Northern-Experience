@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Northern Experience",
     "description": "Mod list that will provide a unique, Gothic-esque adventure.",
     "author": "mnikjom",
@@ -15,10 +14,11 @@
       "Gothic-like"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/23894/23894-1578511882-321812591.jpeg",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/69147",
       "download": "https://authored-files.wabbajack.org/The%20Northern%20Experience.wabbajack_9c94f0fc-2087-4e34-9298-ad60a39f83e9",
@@ -26,14 +26,12 @@
       "discordURL": "https://discord.gg/fuhsnph"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "vi8Fk8Xu0Vs=",
       "Size": 490525217,
       "NumberOfArchives": 3578,
       "SizeOfArchives": 170677247590,
       "NumberOfInstalledFiles": 215942,
-      "SizeOfInstalledFiles": 264969489187,
-      "TotalSize": 435646736777
+      "SizeOfInstalledFiles": 264969489187
     },
     "version": "1.8"
   }
