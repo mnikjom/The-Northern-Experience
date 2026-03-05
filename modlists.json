@@ -10,7 +10,9 @@
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
-      "Official"
+      "Official",
+      "Immersive",
+      "Gothic-like"
     ],
     "nsfw": false,
     "image_contains_title": true,
@@ -19,19 +21,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/23894/23894-1578511882-321812591.jpeg",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/69147",
-      "download": "https://authored-files.wabbajack.org/The%20Northern%20Experience.wabbajack_5a1446c0-b754-4a36-9df8-2309c1efdfb9",
+      "download": "https://authored-files.wabbajack.org/The%20Northern%20Experience.wabbajack_9c94f0fc-2087-4e34-9298-ad60a39f83e9",
       "machineURL": "tne",
       "discordURL": "https://discord.gg/fuhsnph"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "b2UoXOGZcHg=",
-      "Size": 523809817,
-      "NumberOfArchives": 3336,
-      "SizeOfArchives": 152619021157,
-      "NumberOfInstalledFiles": 222540,
-      "SizeOfInstalledFiles": 241206971205
+      "Hash": "vi8Fk8Xu0Vs=",
+      "Size": 490525217,
+      "NumberOfArchives": 3578,
+      "SizeOfArchives": 170677247590,
+      "NumberOfInstalledFiles": 215942,
+      "SizeOfInstalledFiles": 264969489187,
+      "TotalSize": 435646736777
     },
-    "version": "1.7.1"
+    "version": "1.8"
   }
 ]
