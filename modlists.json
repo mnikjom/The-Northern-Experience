@@ -23,7 +23,14 @@
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/69147",
       "download": "https://authored-files.wabbajack.org/The%20Northern%20Experience.wabbajack_74373a93-c7b3-416c-8aa7-ef570511b2b3",
       "machineURL": "tne",
-      "discordURL": "https://discord.gg/fuhsnph"
+      "discordURL": "https://discord.gg/fuhsnph",
+      "websiteURL": "",
+      "nexusCollection": {
+        "collectionId": "467948",
+        "slug": "wo0tpj",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "D4i8Nr4KCcE=",
@@ -31,8 +38,12 @@
       "NumberOfArchives": 3578,
       "SizeOfArchives": 170677238033,
       "NumberOfInstalledFiles": 215942,
-      "SizeOfInstalledFiles": 264969281799
+      "SizeOfInstalledFiles": 264969281799,
+      "TotalSize": 435646519832
     },
-    "version": "1.8.0.1"
+    "version": "1.8.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
